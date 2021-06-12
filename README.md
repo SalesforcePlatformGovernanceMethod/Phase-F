@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SalesforcePlatformGovernanceMethod/phase-e/blob/550f8fbf4f282fc718b1d8946f1b22348dbba8d8/images/phase-e.png" title="Phase C">
+  <img src="https://github.com/SalesforcePlatformGovernanceMethod/phase-f/blob/6feb4f5531a3beb676226b37c8040bc3c8355754/images/phase-f.png" title="Phase C">
 </p>
 
 <p align='center'>
